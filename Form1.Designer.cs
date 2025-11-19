@@ -250,7 +250,7 @@
             // chiudiToolStripMenuItem
             // 
             this.chiudiToolStripMenuItem.Name = "chiudiToolStripMenuItem";
-            this.chiudiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.chiudiToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
             this.chiudiToolStripMenuItem.Text = "Chiudi";
             this.chiudiToolStripMenuItem.Click += new System.EventHandler(this.chiudiToolStripMenuItem_Click);
             // 
