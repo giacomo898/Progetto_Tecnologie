@@ -208,10 +208,5 @@ namespace Tecnologie
             textBox4.Text = pizzeResponse.Pizze[index].Id.ToString();
 
         }
-
-        private void chiudiToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
     }
 }
